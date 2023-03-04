@@ -1,0 +1,1 @@
+# VAE_MnBi2Te4_magnezation-data
